@@ -1,6 +1,6 @@
 [//]: # (Image References)
 [image1]: ./data/map.png
-[image2]: ./data/result.png
+[image2]: ./data/results.png
 
 # Overview
 The Kidnapped project is concerned about using particle filter technique to define the vehicle location and orientation precisely. The particle filter is implemented in C++. 
